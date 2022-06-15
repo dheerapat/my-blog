@@ -1,11 +1,11 @@
-baseURL = 'https://dheerapat.github.io'
+baseURL = ''
 languageCode = 'en-us'
 title = "dheerapat's log"
 theme = 'archie'
 copyright = 'dheerapat'
 
 [params]
-    mode = 'toggle'
+    mode = 'light'
     subtitle = 'my little journey in this vast universe.'
 
 

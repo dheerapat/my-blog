@@ -8,5 +8,5 @@ tags: ['post']
 
 ### Hi this is my first post!
 
-don't panick. this is just a test.  
+don't panic. this is just a test.  
 ![me](/me.jpg)
