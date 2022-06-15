@@ -1,0 +1,30 @@
+baseURL = ''
+languageCode = 'en-us'
+title = "dheerapat's log"
+theme = 'archie'
+copyright = 'dheerapat'
+
+[params]
+    mode = 'toggle'
+    subtitle = 'my little journey in this vast universe.'
+
+
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "All posts"
+url = "/posts"
+weight = 2
+
+[[menu.main]]
+name = "About"
+url = "/about"
+weight = 3
+
+[[menu.main]]
+name = "Tags"
+url = "/tags"
+weight = 4
