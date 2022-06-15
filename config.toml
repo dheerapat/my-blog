@@ -1,4 +1,4 @@
-baseURL = ''
+baseURL = 'https://dheerapat.github.io'
 languageCode = 'en-us'
 title = "dheerapat's log"
 theme = 'archie'
