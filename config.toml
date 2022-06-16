@@ -7,7 +7,7 @@ copyright = 'dheerapat'
 paginate = 5
 
 [params]
-    mode = 'light'
+    mode = 'toggle'
     subtitle = 'my little journey in this vast universe.'
 
 [[params.social]]
