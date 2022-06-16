@@ -9,6 +9,7 @@ paginate = 5
 [params]
     mode = 'toggle'
     subtitle = 'my little journey in this vast universe.'
+    useCDN = false
 
 [[params.social]]
 name = "GitHub"
