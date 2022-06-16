@@ -4,9 +4,16 @@ title = "dheerapat's log"
 theme = 'archie'
 copyright = 'dheerapat'
 
+paginate = 5
+
 [params]
     mode = 'light'
     subtitle = 'my little journey in this vast universe.'
+
+[[params.social]]
+name = "GitHub"
+icon = "github"
+url = "https://github.com/dheerapat"
 
 
 [[menu.main]]
