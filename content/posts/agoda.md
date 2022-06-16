@@ -9,6 +9,6 @@ I will have my first tech-company job interview tomorrow. The role I applied is 
 
 ![agoda job](/agoda.png)
 
-After 2 year of "boring but chill" job, I finally took a step forward to a tech path. In reality my ultimate goal is not a data analyst but to be a freelance software developer and travel the world while making money on the fly. But to archive that goal I have to take my step into this industry.
+After 2 year of "boring but chill" job, I finally took a step forward to a tech path. In reality my ultimate goal is not a data analyst but to be a freelance software developer and travel the world while making money on the fly. But to archive that goal I have to first dip my toe into this industry.
 
 That's it for today, I'll keep you update about how the interview go. Hope it come out good!
