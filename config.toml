@@ -7,14 +7,9 @@ copyright = 'dheerapat'
 paginate = 5
 
 [params]
-    mode='toggle'
+    mode='light'
     subtitle = 'my little journey in this vast universe.'
     useCDN=false
-
-[[params.social]]
-name = "GitHub"
-icon = "github"
-url = "https://github.com/dheerapat"
 
 
 [[menu.main]]
